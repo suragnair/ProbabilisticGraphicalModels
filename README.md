@@ -8,4 +8,4 @@ This code contains:
 - parameter learning for Bayesian Network from observed data samples (counting and smoothing)
 - gradient ascent to learn parameters of a Markov Network from observed data samples
 
-I'm still working on the documentation. If you think you could use this code, let me know and I'll speed up the documentation!
+If you think you could use this code, let me know and I'll speed up the documentation!
